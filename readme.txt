@@ -1,5 +1,5 @@
 Git is a version control system
-Git is free software.
+Git is free software.---bug deal.
 
 Git is a distribute version control.
 Git is free software.
